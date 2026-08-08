@@ -69,8 +69,8 @@ export default function Hero() {
             <Image
               src="/images/profile-cutout.png"
               alt="Muhammad Ahmad"
-              width={1205}
-              height={1600}
+              width={667}
+              height={1135}
               priority
               sizes="(min-width: 1024px) 740px, 90vw"
               className="relative z-10 h-auto w-full select-none"
