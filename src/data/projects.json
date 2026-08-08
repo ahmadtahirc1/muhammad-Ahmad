@@ -1,0 +1,52 @@
+[
+  {
+    "slug": "muneeb-traders",
+    "title": "Muneeb Traders",
+    "description": "A modern business website developed for Muneeb Traders with a clean user experience, responsive design and optimized performance.",
+    "longDescription": "Designed and built a full business presence from the ground up — information architecture, responsive layouts, and performance tuning so the site loads fast on any connection. Focused on translating a real trading business's offerings into a clear, trustworthy digital storefront.",
+    "tags": ["Business Website", "Client Project"],
+    "stack": ["Next.js", "TypeScript", "Tailwind CSS"],
+    "liveUrl": "https://muneebtraders.com",
+    "featured": true
+  },
+  {
+    "slug": "pos-software",
+    "title": "POS Software",
+    "description": "A complete desktop POS software used by 6+ real clients featuring inventory management, billing, reporting, barcode support, thermal printing and business analytics.",
+    "longDescription": "A full desktop point-of-sale system built for real retail operations — not a demo. Handles inventory tracking, invoice generation, barcode scanning, thermal receipt printing, credit sales, and sales analytics. Currently running in production across six-plus businesses, shaped directly by client feedback.",
+    "tags": ["Desktop Software", "Business Automation"],
+    "stack": ["Java", "JavaFX", "SQLite"],
+    "highlight": "Used by 6+ clients",
+    "featured": true
+  },
+  {
+    "slug": "faast-academy",
+    "title": "FAAST Academy",
+    "description": "Developed a complete educational institution website with responsive design, admissions information and modern UI.",
+    "longDescription": "Built the full web presence for an educational institution — admissions details, program information, and a modern, responsive interface designed to feel credible to parents and students alike.",
+    "tags": ["Education", "Client Project"],
+    "stack": ["Next.js", "Tailwind CSS", "Framer Motion"],
+    "liveUrl": "https://faast-education.vercel.app/",
+    "featured": true
+  },
+  {
+    "slug": "hussain-law-chamber",
+    "title": "Hussain Law Chamber",
+    "description": "A professional law firm website built with modern, business-focused functionality for a real-world client.",
+    "longDescription": "A polished, professional web presence for a law firm — clear service breakdowns, credibility-focused design, and a layout built to convert visitors into consultations.",
+    "tags": ["Business Website", "Client Project"],
+    "stack": ["Next.js", "TypeScript", "Tailwind CSS"],
+    "liveUrl": "https://hussain-law-chamber-g22j.vercel.app/",
+    "featured": false
+  },
+  {
+    "slug": "bhabhi-thulla",
+    "title": "Bhabhi Thulla",
+    "description": "A real-time multiplayer online card game built with modern web technologies.",
+    "longDescription": "A real-time multiplayer card game with live game-state sync across players, built to explore interactive, session-based web experiences beyond typical business software.",
+    "tags": ["Multiplayer Game", "Real-time"],
+    "stack": ["React", "Node.js", "WebSockets"],
+    "liveUrl": "https://bhabhi-thulla.vercel.app/",
+    "featured": false
+  }
+]

@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import { Bricolage_Grotesque, Manrope, JetBrains_Mono } from "next/font/google";
 import "./globals.css";
-import AppShell from "@/components/layout/AppShell";
 
 const bricolage = Bricolage_Grotesque({
   variable: "--font-bricolage",
@@ -49,9 +48,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       lang="en"
       className={`${bricolage.variable} ${manrope.variable} ${jetbrainsMono.variable}`}
     >
-      <body className="antialiased">
-        <AppShell>{children}</AppShell>
-      </body>
+      <body className="antialiased">{children}</body>
     </html>
   );
 }
